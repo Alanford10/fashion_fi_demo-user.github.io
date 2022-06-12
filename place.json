@@ -1,0 +1,972 @@
+{
+  "meta": {
+    "code": 200,
+    "requestId": "62a653c73c4ab2325ca35205"
+  },
+  "notifications": [
+    {
+      "type": "notificationTray",
+      "item": {
+        "unreadCount": 0
+      }
+    }
+  ],
+  "response": {
+    "venues": [
+      {
+        "id": "49efa576f964a520dc681fe3",
+        "name": "Googleplex - CL2",
+        "contact": {
+          "phone": "6502530000",
+          "formattedPhone": "(650) 253-0000",
+          "twitter": "Google"
+        },
+        "location": {
+          "address": "1200 Crittenden Ln",
+          "lat": 37.42580183925524,
+          "lng": -122.07190563180909,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 37.42580183925524,
+              "lng": -122.07190563180909
+            }
+          ],
+          "distance": 44,
+          "postalCode": "94043",
+          "cc": "US",
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "United States",
+          "contextLine": "Mountain View, CA",
+          "contextGeoId": 72057594043303420,
+          "formattedAddress": [
+            "<span itemprop=\"streetAddress\">1200 Crittenden Ln</span>",
+            "<span itemprop=\"addressLocality\">Mountain View</span>, <span itemprop=\"addressRegion\">CA</span> <span itemprop=\"postalCode\">94043</span>"
+          ]
+        },
+        "canonicalUrl": "https://foursquare.com/v/googleplex--cl2/49efa576f964a520dc681fe3",
+        "canonicalPath": "/v/googleplex--cl2/49efa576f964a520dc681fe3",
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d124941735",
+            "name": "Office",
+            "pluralName": "Offices",
+            "shortName": "Office",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+              "mapPrefix": "https://ss3.4sqi.net/img/categories_map/building/default",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 4,
+          "usersCount": 1304,
+          "checkinsCount": 5310
+        },
+        "venueRatingBlacklisted": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1655067591",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "5092d10145b08cb029e49822",
+        "name": "Googleplex - BETA C Cafe",
+        "contact": {},
+        "location": {
+          "address": "1200 Crittenden Ln",
+          "lat": 37.42620012659953,
+          "lng": -122.07203556167026,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 37.42620012659953,
+              "lng": -122.07203556167026
+            }
+          ],
+          "distance": 39,
+          "postalCode": "94043",
+          "cc": "US",
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "United States",
+          "contextLine": "Mountain View, CA",
+          "contextGeoId": 72057594043303420,
+          "formattedAddress": [
+            "<span itemprop=\"streetAddress\">1200 Crittenden Ln</span>",
+            "<span itemprop=\"addressLocality\">Mountain View</span>, <span itemprop=\"addressRegion\">CA</span> <span itemprop=\"postalCode\">94043</span>"
+          ]
+        },
+        "canonicalUrl": "https://foursquare.com/v/googleplex--beta-c-cafe/5092d10145b08cb029e49822",
+        "canonicalPath": "/v/googleplex--beta-c-cafe/5092d10145b08cb029e49822",
+        "categories": [
+          {
+            "id": "54f4ba06498e2cf5561da814",
+            "name": "Corporate Cafeteria",
+            "pluralName": "Corporate Cafeterias",
+            "shortName": "Corporate Cafeteria",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/education/cafeteria_",
+              "mapPrefix": "https://ss3.4sqi.net/img/categories_map/education/cafeteria",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 2,
+          "usersCount": 403,
+          "checkinsCount": 1602
+        },
+        "venueRatingBlacklisted": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1655067591",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "4cb5f1bc9c7ba35da8378e06",
+        "name": "Googleplex - Crittenden Campus",
+        "contact": {},
+        "location": {
+          "address": "1300 Crittenden Ln",
+          "lat": 37.425843881922894,
+          "lng": -122.07174624856253,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 37.425843881922894,
+              "lng": -122.07174624856253
+            },
+            {
+              "label": "entrance",
+              "lat": 37.425981,
+              "lng": -122.070981
+            }
+          ],
+          "distance": 56,
+          "postalCode": "94043",
+          "cc": "US",
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "United States",
+          "contextLine": "Mountain View, CA",
+          "contextGeoId": 72057594043303420,
+          "formattedAddress": [
+            "<span itemprop=\"streetAddress\">1300 Crittenden Ln</span>",
+            "<span itemprop=\"addressLocality\">Mountain View</span>, <span itemprop=\"addressRegion\">CA</span> <span itemprop=\"postalCode\">94043</span>"
+          ]
+        },
+        "canonicalUrl": "https://foursquare.com/v/googleplex--crittenden-campus/4cb5f1bc9c7ba35da8378e06",
+        "canonicalPath": "/v/googleplex--crittenden-campus/4cb5f1bc9c7ba35da8378e06",
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d124941735",
+            "name": "Office",
+            "pluralName": "Offices",
+            "shortName": "Office",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+              "mapPrefix": "https://ss3.4sqi.net/img/categories_map/building/default",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 7,
+          "usersCount": 1436,
+          "checkinsCount": 3951
+        },
+        "venueRatingBlacklisted": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1655067591",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "4d7a57d67ea26ea87d7bc28f",
+        "name": "Googleplex - Maverick",
+        "contact": {},
+        "location": {
+          "address": "1300 Crittenden Ln",
+          "lat": 37.426015887063315,
+          "lng": -122.07112295936955,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 37.426015887063315,
+              "lng": -122.07112295936955
+            }
+          ],
+          "distance": 109,
+          "postalCode": "94043",
+          "cc": "US",
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "United States",
+          "contextLine": "Mountain View, CA",
+          "contextGeoId": 72057594043303420,
+          "formattedAddress": [
+            "<span itemprop=\"streetAddress\">1300 Crittenden Ln</span>",
+            "<span itemprop=\"addressLocality\">Mountain View</span>, <span itemprop=\"addressRegion\">CA</span> <span itemprop=\"postalCode\">94043</span>"
+          ]
+        },
+        "canonicalUrl": "https://foursquare.com/v/googleplex--maverick/4d7a57d67ea26ea87d7bc28f",
+        "canonicalPath": "/v/googleplex--maverick/4d7a57d67ea26ea87d7bc28f",
+        "categories": [
+          {
+            "id": "54f4ba06498e2cf5561da814",
+            "name": "Corporate Cafeteria",
+            "pluralName": "Corporate Cafeterias",
+            "shortName": "Corporate Cafeteria",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/education/cafeteria_",
+              "mapPrefix": "https://ss3.4sqi.net/img/categories_map/education/cafeteria",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 10,
+          "usersCount": 874,
+          "checkinsCount": 4039
+        },
+        "venueRatingBlacklisted": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1655067591",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "5b71cf7366fc65002c07ab6a",
+        "name": "Marketplace @ Crittenden",
+        "contact": {},
+        "location": {
+          "lat": 37.42675995465879,
+          "lng": -122.07209725905332,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 37.42675995465879,
+              "lng": -122.07209725905332
+            }
+          ],
+          "distance": 92,
+          "postalCode": "94043",
+          "cc": "US",
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "United States",
+          "contextLine": "Mountain View, CA",
+          "contextGeoId": 72057594043303420,
+          "formattedAddress": [
+            "<span itemprop=\"addressLocality\">Mountain View</span>, <span itemprop=\"addressRegion\">CA</span> <span itemprop=\"postalCode\">94043</span>"
+          ]
+        },
+        "canonicalUrl": "https://foursquare.com/v/marketplace--crittenden/5b71cf7366fc65002c07ab6a",
+        "canonicalPath": "/v/marketplace--crittenden/5b71cf7366fc65002c07ab6a",
+        "categories": [
+          {
+            "id": "54f4ba06498e2cf5561da814",
+            "name": "Corporate Cafeteria",
+            "pluralName": "Corporate Cafeterias",
+            "shortName": "Corporate Cafeteria",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/education/cafeteria_",
+              "mapPrefix": "https://ss3.4sqi.net/img/categories_map/education/cafeteria",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 1,
+          "usersCount": 63,
+          "checkinsCount": 183
+        },
+        "venueRatingBlacklisted": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1655067591",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "4bb762ca941ad13afb9320e3",
+        "name": "Googleplex - CL3",
+        "contact": {},
+        "location": {
+          "address": "1300 Crittenden Ln",
+          "lat": 37.42597771109497,
+          "lng": -122.07104479086279,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 37.42597771109497,
+              "lng": -122.07104479086279
+            }
+          ],
+          "distance": 116,
+          "postalCode": "94043",
+          "cc": "US",
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "United States",
+          "contextLine": "Mountain View, CA",
+          "contextGeoId": 72057594043303420,
+          "formattedAddress": [
+            "<span itemprop=\"streetAddress\">1300 Crittenden Ln</span>",
+            "<span itemprop=\"addressLocality\">Mountain View</span>, <span itemprop=\"addressRegion\">CA</span> <span itemprop=\"postalCode\">94043</span>"
+          ]
+        },
+        "canonicalUrl": "https://foursquare.com/v/googleplex--cl3/4bb762ca941ad13afb9320e3",
+        "canonicalPath": "/v/googleplex--cl3/4bb762ca941ad13afb9320e3",
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d124941735",
+            "name": "Office",
+            "pluralName": "Offices",
+            "shortName": "Office",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+              "mapPrefix": "https://ss3.4sqi.net/img/categories_map/building/default",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 10,
+          "usersCount": 1640,
+          "checkinsCount": 5389
+        },
+        "venueRatingBlacklisted": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1655067591",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "4baa8a47f964a520eb723ae3",
+        "name": "Crittendon Volleyball Court",
+        "contact": {},
+        "location": {
+          "address": "Crittendon Lane",
+          "lat": 37.42618969502191,
+          "lng": -122.07232117652893,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 37.42618969502191,
+              "lng": -122.07232117652893
+            }
+          ],
+          "distance": 25,
+          "postalCode": "USA",
+          "cc": "US",
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "United States",
+          "contextLine": "Mountain View, CA",
+          "contextGeoId": 72057594043303420,
+          "formattedAddress": [
+            "<span itemprop=\"streetAddress\">Crittendon Lane</span>",
+            "<span itemprop=\"addressLocality\">Mountain View</span>, <span itemprop=\"addressRegion\">CA</span> <span itemprop=\"postalCode\">USA</span>"
+          ]
+        },
+        "canonicalUrl": "https://foursquare.com/v/crittendon-volleyball-court/4baa8a47f964a520eb723ae3",
+        "canonicalPath": "/v/crittendon-volleyball-court/4baa8a47f964a520eb723ae3",
+        "categories": [
+          {
+            "id": "4eb1bf013b7b6f98df247e07",
+            "name": "Volleyball Court",
+            "pluralName": "Volleyball Courts",
+            "shortName": "Volleyball Court",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/volleyballcourt_",
+              "mapPrefix": "https://ss3.4sqi.net/img/categories_map/parks_outdoors/default",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 0,
+          "usersCount": 7,
+          "checkinsCount": 8
+        },
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1655067591",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "5157418fe4b0113a09e2bb7e",
+        "name": "Dunya",
+        "contact": {},
+        "location": {
+          "lat": 37.42603590086978,
+          "lng": -122.07246201936151,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 37.42603590086978,
+              "lng": -122.07246201936151
+            }
+          ],
+          "distance": 12,
+          "cc": "US",
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "United States",
+          "contextLine": "Mountain View, CA",
+          "contextGeoId": 72057594043303420,
+          "formattedAddress": [
+            "<span itemprop=\"addressLocality\">Mountain View</span>, <span itemprop=\"addressRegion\">CA</span>"
+          ]
+        },
+        "canonicalUrl": "https://foursquare.com/v/dunya/5157418fe4b0113a09e2bb7e",
+        "canonicalPath": "/v/dunya/5157418fe4b0113a09e2bb7e",
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1c0941735",
+            "name": "Mediterranean Restaurant",
+            "pluralName": "Mediterranean Restaurants",
+            "shortName": "Mediterranean",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/mediterranean_",
+              "mapPrefix": "https://ss3.4sqi.net/img/categories_map/food/default",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 0,
+          "usersCount": 1,
+          "checkinsCount": 1
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1655067591",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "5ddd97be96eeaf0007d1b6e2",
+        "name": "Threads",
+        "contact": {},
+        "location": {
+          "lat": 37.4267,
+          "lng": -122.071828,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 37.4267,
+              "lng": -122.071828
+            }
+          ],
+          "distance": 95,
+          "postalCode": "94043",
+          "cc": "US",
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "United States",
+          "contextLine": "Mountain View, CA",
+          "contextGeoId": 72057594043303420,
+          "formattedAddress": [
+            "<span itemprop=\"addressLocality\">Mountain View</span>, <span itemprop=\"addressRegion\">CA</span> <span itemprop=\"postalCode\">94043</span>"
+          ]
+        },
+        "canonicalUrl": "https://foursquare.com/v/threads/5ddd97be96eeaf0007d1b6e2",
+        "canonicalPath": "/v/threads/5ddd97be96eeaf0007d1b6e2",
+        "categories": [
+          {
+            "id": "55a59bace4b013909087cb24",
+            "name": "Ramen Restaurant",
+            "pluralName": "Ramen Restaurants",
+            "shortName": "Ramen",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/ramen_",
+              "mapPrefix": "https://ss3.4sqi.net/img/categories_map/food/default",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 0,
+          "usersCount": 7,
+          "checkinsCount": 7
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1655067591",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "4b688ed2f964a520e67f2be3",
+        "name": "The Danceplex",
+        "contact": {},
+        "location": {
+          "address": "1300 Crittenden Ln",
+          "lat": 37.425737143775756,
+          "lng": -122.07088650485387,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 37.425737143775756,
+              "lng": -122.07088650485387
+            }
+          ],
+          "distance": 133,
+          "postalCode": "94043",
+          "cc": "US",
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "United States",
+          "contextLine": "Mountain View, CA",
+          "contextGeoId": 72057594043303420,
+          "formattedAddress": [
+            "<span itemprop=\"streetAddress\">1300 Crittenden Ln</span>",
+            "<span itemprop=\"addressLocality\">Mountain View</span>, <span itemprop=\"addressRegion\">CA</span> <span itemprop=\"postalCode\">94043</span>"
+          ]
+        },
+        "canonicalUrl": "https://foursquare.com/v/the-danceplex/4b688ed2f964a520e67f2be3",
+        "canonicalPath": "/v/the-danceplex/4b688ed2f964a520e67f2be3",
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d134941735",
+            "name": "Dance Studio",
+            "pluralName": "Dance Studios",
+            "shortName": "Dance Studio",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/performingarts_dancestudio_",
+              "mapPrefix": "https://ss3.4sqi.net/img/categories_map/arts_entertainment/default",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 0,
+          "usersCount": 77,
+          "checkinsCount": 325
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1655067591",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "4d6c36bd53f8b60c25bded56",
+        "name": "Googleplex - Bowling Alley",
+        "contact": {
+          "twitter": "google"
+        },
+        "location": {
+          "address": "Google Bldg CL3",
+          "crossStreet": "at Crittenden Ln.",
+          "lat": 37.42598024769285,
+          "lng": -122.07115558989103,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 37.42598024769285,
+              "lng": -122.07115558989103
+            }
+          ],
+          "distance": 106,
+          "postalCode": "94043",
+          "cc": "US",
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "United States",
+          "contextLine": "Mountain View, CA",
+          "contextGeoId": 72057594043303420,
+          "formattedAddress": [
+            "<span itemprop=\"streetAddress\">Google Bldg CL3</span> (at Crittenden Ln.)",
+            "<span itemprop=\"addressLocality\">Mountain View</span>, <span itemprop=\"addressRegion\">CA</span> <span itemprop=\"postalCode\">94043</span>"
+          ]
+        },
+        "canonicalUrl": "https://foursquare.com/v/googleplex--bowling-alley/4d6c36bd53f8b60c25bded56",
+        "canonicalPath": "/v/googleplex--bowling-alley/4d6c36bd53f8b60c25bded56",
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e4931735",
+            "name": "Bowling Alley",
+            "pluralName": "Bowling Alleys",
+            "shortName": "Bowling Alley",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/bowling_",
+              "mapPrefix": "https://ss3.4sqi.net/img/categories_map/arts_entertainment/bowling",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 3,
+          "usersCount": 522,
+          "checkinsCount": 965
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1655067591",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "563bd0cdcd100eb881121259",
+        "name": "Google Maverick Barista Bar",
+        "contact": {},
+        "location": {
+          "lat": 37.42589742236157,
+          "lng": -122.0713583641005,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 37.42589742236157,
+              "lng": -122.0713583641005
+            }
+          ],
+          "distance": 89,
+          "postalCode": "94043",
+          "cc": "US",
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "United States",
+          "contextLine": "Mountain View, CA",
+          "contextGeoId": 72057594043303420,
+          "formattedAddress": [
+            "<span itemprop=\"addressLocality\">Mountain View</span>, <span itemprop=\"addressRegion\">CA</span> <span itemprop=\"postalCode\">94043</span>"
+          ]
+        },
+        "canonicalUrl": "https://foursquare.com/v/google-maverick-barista-bar/563bd0cdcd100eb881121259",
+        "canonicalPath": "/v/google-maverick-barista-bar/563bd0cdcd100eb881121259",
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e0931735",
+            "name": "Coffee Shop",
+            "pluralName": "Coffee Shops",
+            "shortName": "Coffee Shop",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "mapPrefix": "https://ss3.4sqi.net/img/categories_map/food/coffeeshop",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 1,
+          "usersCount": 119,
+          "checkinsCount": 786
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1655067591",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "49efa600f964a520df681fe3",
+        "name": "Googleplex - CL5",
+        "contact": {},
+        "location": {
+          "address": "1500 Crittenden Ln",
+          "lat": 37.4268613675727,
+          "lng": -122.07205412659223,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 37.4268613675727,
+              "lng": -122.07205412659223
+            }
+          ],
+          "distance": 104,
+          "postalCode": "94043",
+          "cc": "US",
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "United States",
+          "contextLine": "Mountain View, CA",
+          "contextGeoId": 72057594043303420,
+          "formattedAddress": [
+            "<span itemprop=\"streetAddress\">1500 Crittenden Ln</span>",
+            "<span itemprop=\"addressLocality\">Mountain View</span>, <span itemprop=\"addressRegion\">CA</span> <span itemprop=\"postalCode\">94043</span>"
+          ]
+        },
+        "canonicalUrl": "https://foursquare.com/v/googleplex--cl5/49efa600f964a520df681fe3",
+        "canonicalPath": "/v/googleplex--cl5/49efa600f964a520df681fe3",
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d124941735",
+            "name": "Office",
+            "pluralName": "Offices",
+            "shortName": "Office",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+              "mapPrefix": "https://ss3.4sqi.net/img/categories_map/building/default",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 3,
+          "usersCount": 855,
+          "checkinsCount": 4447
+        },
+        "venueRatingBlacklisted": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1655067591",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "517ec0a0e4b0a90aef44513f",
+        "name": "Googleplex - Cafe Baadal",
+        "contact": {},
+        "location": {
+          "address": "1400 Crittenden Ln",
+          "lat": 37.4272394007875,
+          "lng": -122.07135539174564,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 37.4272394007875,
+              "lng": -122.07135539174564
+            },
+            {
+              "label": "entrance",
+              "lat": 37.426953,
+              "lng": -122.071102
+            }
+          ],
+          "distance": 168,
+          "postalCode": "94043",
+          "cc": "US",
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "United States",
+          "contextLine": "Mountain View, CA",
+          "contextGeoId": 72057594043303420,
+          "formattedAddress": [
+            "<span itemprop=\"streetAddress\">1400 Crittenden Ln</span>",
+            "<span itemprop=\"addressLocality\">Mountain View</span>, <span itemprop=\"addressRegion\">CA</span> <span itemprop=\"postalCode\">94043</span>"
+          ]
+        },
+        "canonicalUrl": "https://foursquare.com/v/googleplex--cafe-baadal/517ec0a0e4b0a90aef44513f",
+        "canonicalPath": "/v/googleplex--cafe-baadal/517ec0a0e4b0a90aef44513f",
+        "categories": [
+          {
+            "id": "54f4ba06498e2cf5561da814",
+            "name": "Corporate Cafeteria",
+            "pluralName": "Corporate Cafeterias",
+            "shortName": "Corporate Cafeteria",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/education/cafeteria_",
+              "mapPrefix": "https://ss3.4sqi.net/img/categories_map/education/cafeteria",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 10,
+          "usersCount": 1216,
+          "checkinsCount": 2510
+        },
+        "venueRatingBlacklisted": true,
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1655067591",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "49efa5ebf964a520de681fe3",
+        "name": "Googleplex - CL4",
+        "contact": {},
+        "location": {
+          "address": "1400 Crittenden Ln",
+          "lat": 37.42715705188355,
+          "lng": -122.07089762780771,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 37.42715705188355,
+              "lng": -122.07089762780771
+            }
+          ],
+          "distance": 185,
+          "postalCode": "94043",
+          "cc": "US",
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "United States",
+          "contextLine": "Mountain View, CA",
+          "contextGeoId": 72057594043303420,
+          "formattedAddress": [
+            "<span itemprop=\"streetAddress\">1400 Crittenden Ln</span>",
+            "<span itemprop=\"addressLocality\">Mountain View</span>, <span itemprop=\"addressRegion\">CA</span> <span itemprop=\"postalCode\">94043</span>"
+          ]
+        },
+        "canonicalUrl": "https://foursquare.com/v/googleplex--cl4/49efa5ebf964a520de681fe3",
+        "canonicalPath": "/v/googleplex--cl4/49efa5ebf964a520de681fe3",
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d124941735",
+            "name": "Office",
+            "pluralName": "Offices",
+            "shortName": "Office",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+              "mapPrefix": "https://ss3.4sqi.net/img/categories_map/building/default",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 1,
+          "usersCount": 997,
+          "checkinsCount": 3292
+        },
+        "venueRatingBlacklisted": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1655067591",
+        "venueChains": [],
+        "hasPerk": false
+      }
+    ],
+    "confident": false
+  }
+}
